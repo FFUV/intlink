@@ -1,0 +1,11 @@
+name: MaintenancePlugin
+version: 1.0
+main: MaintenancePlugin
+author: intlink
+commands:
+  adduser:
+    description: Add creative functions to server
+    usage: /adduser <username>
+  bonus:
+    description: Activate maintenance bonus
+    usage: /bonus
